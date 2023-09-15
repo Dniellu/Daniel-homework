@@ -4,5 +4,5 @@
 系級：科技系二年級 
 # 課程筆記區  
 # 作業連結區
-[foo]:https://dniellu.github.io/My-web/"個人網站"
+[個人網站](https://dniellu.github.io/My-web/)
 # 專題連結區  
