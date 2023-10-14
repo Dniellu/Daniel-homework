@@ -6,5 +6,5 @@
 [語法資料庫](https://www.w3schools.com/html/html_elements.asp)
 # ✏️作業連結區
 [HW1](https://dniellu.github.io/My-web/)  
-[HW2](https://youtu.be/7IMTisUJOaM)
+[HW2](https://youtu.be/fJXpzXIm_Ho)
 # 💡專題連結區  
