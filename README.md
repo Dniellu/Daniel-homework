@@ -9,5 +9,6 @@
 # ✏️作業連結區
 [HW1 個人網站](https://dniellu.github.io/My-web/)  
 [HW2 動態網站製作](https://youtu.be/fJXpzXIm_Ho)  
-[HW3 JavaScript作品](https://www.youtube.com/watch?v=UOoIShgRzfI)
+[HW3 JavaScript作品](https://www.youtube.com/watch?v=UOoIShgRzfI)  
+[HW4 Deploy My Website to Azure](https://www.youtube.com/watch?v=CDSVLTH4zok)
 # 💡專題連結區  
