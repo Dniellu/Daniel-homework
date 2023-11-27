@@ -12,3 +12,5 @@
 [HW3 JavaScript作品](https://www.youtube.com/watch?v=UOoIShgRzfI)  
 [HW4 Deploy My Website to Azure](https://www.youtube.com/watch?v=CDSVLTH4zok)
 # 💡專題連結區  
+[專題提案討論報告](https://docs.google.com/spreadsheets/d/1hzvYGyGni_xOfcRI45S0fM5opsLWDM1QqAA3n7q1sII/edit#gid=1199087593)  
+[專題製作(更新中)](https://youbike-web.github.io/Youbike-web/)  
